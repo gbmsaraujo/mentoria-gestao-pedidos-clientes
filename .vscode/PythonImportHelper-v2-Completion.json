@@ -1,0 +1,810 @@
+[
+    {
+        "label": "clients_repository",
+        "importPath": "src.models.repositories.clients_repository",
+        "description": "src.models.repositories.clients_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "clients_repository",
+        "importPath": "src.models.repositories.clients_repository",
+        "description": "src.models.repositories.clients_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "products_repository",
+        "importPath": "src.models.repositories.products_repository",
+        "description": "src.models.repositories.products_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "products_repository",
+        "importPath": "src.models.repositories.products_repository",
+        "description": "src.models.repositories.products_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products",
+        "importPath": "src.views.view_all_products",
+        "description": "src.views.view_all_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_all_products",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products",
+        "importPath": "src.views.view_all_products",
+        "description": "src.views.view_all_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_all_products",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "importPath": "src.controllers.clients.clients_controller",
+        "description": "src.controllers.clients.clients_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "importPath": "src.controllers.clients.clients_controller",
+        "description": "src.controllers.clients.clients_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "importPath": "src.controllers.clients.clients_controller",
+        "description": "src.controllers.clients.clients_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "importPath": "src.controllers.clients.clients_controller",
+        "description": "src.controllers.clients.clients_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "view_select_state_client",
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "isExtraImport": true,
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_clients_by_state",
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "isExtraImport": true,
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_select_state_client",
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "isExtraImport": true,
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_clients_by_state",
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "isExtraImport": true,
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_deleted",
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "isExtraImport": true,
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_to_delete",
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "isExtraImport": true,
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_deleted",
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "isExtraImport": true,
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_to_delete",
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "isExtraImport": true,
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_client",
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "client_response",
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_client",
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "client_response",
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_product",
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "response_products",
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_product",
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "response_products",
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "isExtraImport": true,
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "show_options",
+        "importPath": "src.views.view_options",
+        "description": "src.views.view_options",
+        "isExtraImport": true,
+        "detail": "src.views.view_options",
+        "documentation": {}
+    },
+    {
+        "label": "show_options",
+        "importPath": "src.views.view_options",
+        "description": "src.views.view_options",
+        "isExtraImport": true,
+        "detail": "src.views.view_options",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "list_clients_by_state",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "product_delete_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_client_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_product_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "list_clients_by_state",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "product_delete_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_client_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_product_constructor",
+        "importPath": "src.main.constructor",
+        "description": "src.main.constructor",
+        "isExtraImport": true,
+        "detail": "src.main.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "clear_terminal",
+        "importPath": "src.utils.utils",
+        "description": "src.utils.utils",
+        "isExtraImport": true,
+        "detail": "src.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "clear_terminal",
+        "importPath": "src.utils.utils",
+        "description": "src.utils.utils",
+        "isExtraImport": true,
+        "detail": "src.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "start_program",
+        "importPath": "src.main.main",
+        "description": "src.main.main",
+        "isExtraImport": true,
+        "detail": "src.main.main",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "kind": 6,
+        "importPath": "controllers.clients.clients_controller",
+        "description": "controllers.clients.clients_controller",
+        "peekOfCode": "class ClientsController:\n    def register_client(self, client):\n        try:\n            if not client[\"name\"] or not client[\"phone\"] or not client[\"state\"]:\n                return \"Todos os Campos São Obrigatórios, Tente novamente!\"\n            clients_repository.register_clients(client)\n            return \"Cliente Cadastrado com Sucesso!\"\n        except:\n            return \"Impossível Cadastrar Cliente!\"\n    def filter_client_by_state(self, state):",
+        "detail": "controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "kind": 6,
+        "importPath": "controllers.products.products_controller",
+        "description": "controllers.products.products_controller",
+        "peekOfCode": "class ProductController:\n    def register_product(self, product):\n        try:\n            products_repository.register_product(product)\n            return \"Produto Cadastrado Com Sucesso!\"\n        except:\n            return \"Erro ao Cadastrar Produto!\"\n    def list_products(self):\n        products = products_repository.get_products()\n        for product in products:",
+        "detail": "controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products_constructor",
+        "kind": 2,
+        "importPath": "main.constructor.list_all_products_constructor",
+        "description": "main.constructor.list_all_products_constructor",
+        "peekOfCode": "def list_all_products_constructor():\n    products_controller = ProductController()\n    products = products_controller.list_products()\n    list_all_products(products)",
+        "detail": "main.constructor.list_all_products_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "list_clients_by_state_constructor",
+        "kind": 2,
+        "importPath": "main.constructor.list_clients_by_state",
+        "description": "main.constructor.list_clients_by_state",
+        "peekOfCode": "def list_clients_by_state_constructor():\n    clients_controller = ClientsController\n    state = view_select_state_client()\n    response = clients_controller.filter_client_by_state(state)\n    view_clients_by_state(response)",
+        "detail": "main.constructor.list_clients_by_state",
+        "documentation": {}
+    },
+    {
+        "label": "product_delete_constructor",
+        "kind": 2,
+        "importPath": "main.constructor.product_delete_constructor",
+        "description": "main.constructor.product_delete_constructor",
+        "peekOfCode": "def product_delete_constructor():\n    product_controller = ProductController()\n    product_name = view_product_to_delete()\n    response = product_controller.remove_product(product_name)\n    view_product_deleted(response)",
+        "detail": "main.constructor.product_delete_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_client_contructor",
+        "kind": 2,
+        "importPath": "main.constructor.register_client_constructor",
+        "description": "main.constructor.register_client_constructor",
+        "peekOfCode": "def register_client_contructor():\n    clients_controller = ClientsController()\n    clients = view_register_client\n    response = clients_controller.register_client(clients)\n    client_response(response)",
+        "detail": "main.constructor.register_client_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_product_constructor",
+        "kind": 2,
+        "importPath": "main.constructor.register_product_constructor",
+        "description": "main.constructor.register_product_constructor",
+        "peekOfCode": "def register_product_constructor():\n    product_controller = ProductController()\n    product = view_register_product()\n    response = product_controller.register_product(product)\n    response_products(response)",
+        "detail": "main.constructor.register_product_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "start_program",
+        "kind": 2,
+        "importPath": "main.main",
+        "description": "main.main",
+        "peekOfCode": "def start_program():\n    is_running = True\n    option = show_options()\n    while is_running:\n        if option.strip() == \"1\":\n            register_client_constructor()\n            clear_terminal()\n        elif option.strip() == \"2\":\n            register_product_constructor()\n            clear_terminal()",
+        "detail": "main.main",
+        "documentation": {}
+    },
+    {
+        "label": "__ClientsRepository",
+        "kind": 6,
+        "importPath": "models.repositories.clients_repository",
+        "description": "models.repositories.clients_repository",
+        "peekOfCode": "class __ClientsRepository:\n    def __init__(self):\n        self.clients = []\n    def register_clients(self, client):\n        self.clients.append(client)\n    def get_clients(self):\n        return self.clients\nclients_repository = __ClientsRepository",
+        "detail": "models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "clients_repository",
+        "kind": 5,
+        "importPath": "models.repositories.clients_repository",
+        "description": "models.repositories.clients_repository",
+        "peekOfCode": "clients_repository = __ClientsRepository",
+        "detail": "models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "__ProductsRepository",
+        "kind": 6,
+        "importPath": "models.repositories.products_repository",
+        "description": "models.repositories.products_repository",
+        "peekOfCode": "class __ProductsRepository:\n    def __init__(self):\n        self.products = []\n    def register_product(self, product):\n        self.products.append(product)\n    def delete_product(self, product:str):\n        self.products.remove(product)\n    def get_products(self):\n        return self.products\nproducts_repository = __ProductsRepository()",
+        "detail": "models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "products_repository",
+        "kind": 5,
+        "importPath": "models.repositories.products_repository",
+        "description": "models.repositories.products_repository",
+        "peekOfCode": "products_repository = __ProductsRepository()",
+        "detail": "models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "ClientsController",
+        "kind": 6,
+        "importPath": "src.controllers.clients.clients_controller",
+        "description": "src.controllers.clients.clients_controller",
+        "peekOfCode": "class ClientsController:\n    def register_client(self, client):\n        try:\n            if not client[\"name\"] or not client[\"phone\"] or not client[\"state\"]:\n                return \"Todos os Campos São Obrigatórios, Tente novamente!\"\n            clients_repository.register_clients(client)\n            return \"Cliente Cadastrado com Sucesso!\"\n        except:\n            return \"Impossível Cadastrar Cliente!\"\n    def filter_client_by_state(self, state):",
+        "detail": "src.controllers.clients.clients_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductController",
+        "kind": 6,
+        "importPath": "src.controllers.products.products_controller",
+        "description": "src.controllers.products.products_controller",
+        "peekOfCode": "class ProductController:\n    def register_product(self, product):\n        try:\n            products_repository.register_product(product)\n            return \"Produto Cadastrado Com Sucesso!\"\n        except:\n            return \"Erro ao Cadastrar Produto!\"\n    def list_products(self):\n        products = products_repository.get_products()\n        for product in products:",
+        "detail": "src.controllers.products.products_controller",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products_constructor",
+        "kind": 2,
+        "importPath": "src.main.constructor.list_all_products_constructor",
+        "description": "src.main.constructor.list_all_products_constructor",
+        "peekOfCode": "def list_all_products_constructor():\n    products_controller = ProductController()\n    products = products_controller.list_products()\n    list_all_products(products)",
+        "detail": "src.main.constructor.list_all_products_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "list_clients_by_state_constructor",
+        "kind": 2,
+        "importPath": "src.main.constructor.list_clients_by_state",
+        "description": "src.main.constructor.list_clients_by_state",
+        "peekOfCode": "def list_clients_by_state_constructor():\n    clients_controller = ClientsController\n    state = view_select_state_client()\n    response = clients_controller.filter_client_by_state(state)\n    view_clients_by_state(response)",
+        "detail": "src.main.constructor.list_clients_by_state",
+        "documentation": {}
+    },
+    {
+        "label": "product_delete_constructor",
+        "kind": 2,
+        "importPath": "src.main.constructor.product_delete_constructor",
+        "description": "src.main.constructor.product_delete_constructor",
+        "peekOfCode": "def product_delete_constructor():\n    product_controller = ProductController()\n    product_name = view_product_to_delete()\n    response = product_controller.remove_product(product_name)\n    view_product_deleted(response)",
+        "detail": "src.main.constructor.product_delete_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_client_contructor",
+        "kind": 2,
+        "importPath": "src.main.constructor.register_client_constructor",
+        "description": "src.main.constructor.register_client_constructor",
+        "peekOfCode": "def register_client_contructor():\n    clients_controller = ClientsController()\n    clients = view_register_client\n    response = clients_controller.register_client(clients)\n    client_response(response)",
+        "detail": "src.main.constructor.register_client_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "register_product_constructor",
+        "kind": 2,
+        "importPath": "src.main.constructor.register_product_constructor",
+        "description": "src.main.constructor.register_product_constructor",
+        "peekOfCode": "def register_product_constructor():\n    product_controller = ProductController()\n    product = view_register_product()\n    response = product_controller.register_product(product)\n    response_products(response)",
+        "detail": "src.main.constructor.register_product_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "start_program",
+        "kind": 2,
+        "importPath": "src.main.main",
+        "description": "src.main.main",
+        "peekOfCode": "def start_program():\n    is_running = True\n    option = show_options()\n    while is_running:\n        if option.strip() == \"1\":\n            register_client_constructor()\n            clear_terminal()\n        elif option.strip() == \"2\":\n            register_product_constructor()\n            clear_terminal()",
+        "detail": "src.main.main",
+        "documentation": {}
+    },
+    {
+        "label": "__ClientsRepository",
+        "kind": 6,
+        "importPath": "src.models.repositories.clients_repository",
+        "description": "src.models.repositories.clients_repository",
+        "peekOfCode": "class __ClientsRepository:\n    def __init__(self):\n        self.clients = []\n    def register_clients(self, client):\n        self.clients.append(client)\n    def get_clients(self):\n        return self.clients\nclients_repository = __ClientsRepository",
+        "detail": "src.models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "clients_repository",
+        "kind": 5,
+        "importPath": "src.models.repositories.clients_repository",
+        "description": "src.models.repositories.clients_repository",
+        "peekOfCode": "clients_repository = __ClientsRepository",
+        "detail": "src.models.repositories.clients_repository",
+        "documentation": {}
+    },
+    {
+        "label": "__ProductsRepository",
+        "kind": 6,
+        "importPath": "src.models.repositories.products_repository",
+        "description": "src.models.repositories.products_repository",
+        "peekOfCode": "class __ProductsRepository:\n    def __init__(self):\n        self.products = []\n    def register_product(self, product):\n        self.products.append(product)\n    def delete_product(self, product:str):\n        self.products.remove(product)\n    def get_products(self):\n        return self.products\nproducts_repository = __ProductsRepository()",
+        "detail": "src.models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "products_repository",
+        "kind": 5,
+        "importPath": "src.models.repositories.products_repository",
+        "description": "src.models.repositories.products_repository",
+        "peekOfCode": "products_repository = __ProductsRepository()",
+        "detail": "src.models.repositories.products_repository",
+        "documentation": {}
+    },
+    {
+        "label": "clear_terminal",
+        "kind": 2,
+        "importPath": "src.utils.utils",
+        "description": "src.utils.utils",
+        "peekOfCode": "def clear_terminal(time_to_wait=2):\n    time.sleep(time_to_wait)\n    os.system('clear')",
+        "detail": "src.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products",
+        "kind": 2,
+        "importPath": "src.views.view_all_products",
+        "description": "src.views.view_all_products",
+        "peekOfCode": "def list_all_products(product):\n    print(f\"* {product['name'] + product['flavor']}\")",
+        "detail": "src.views.view_all_products",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_to_delete",
+        "kind": 2,
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "peekOfCode": "def view_product_to_delete():\n    return input(\"Digite o Nome do produto que deseja deletar: \")\ndef view_product_deleted(response):\n    print(response)",
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_deleted",
+        "kind": 2,
+        "importPath": "src.views.view_deleted_product",
+        "description": "src.views.view_deleted_product",
+        "peekOfCode": "def view_product_deleted(response):\n    print(response)",
+        "detail": "src.views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "show_options",
+        "kind": 2,
+        "importPath": "src.views.view_options",
+        "description": "src.views.view_options",
+        "peekOfCode": "def show_options():\n    view = \"\"\"\nBem-Vindo ao Sistema, o que deseja?\n(1) - Cadastrar cliente por nome, telefone e estado\n(2) - Cadastrar produto da loja por nome e sabor (ex: Bolo de Chocolate / Bolo de Morango)\n(3) - Apresentar todos os produtos cadastrados\n(4) - Apresentar todos os clientes de um determinado estado\n(5) - Deletar um produto cadastrado\n\"\"\"\n    option = input(view)",
+        "detail": "src.views.view_options",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_client",
+        "kind": 2,
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "peekOfCode": "def view_register_client():\n    name = input(\"Digite o nome do Cliente: \")\n    phone = input(\"Digite o Telefone: \")\n    state = input(\"Digite o Estado: \")\n    return {\"name\": name, \"phone\": phone, \"state\": state}\ndef client_response(reponse):\n    print(\"Response\")",
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "client_response",
+        "kind": 2,
+        "importPath": "src.views.view_register_clients",
+        "description": "src.views.view_register_clients",
+        "peekOfCode": "def client_response(reponse):\n    print(\"Response\")",
+        "detail": "src.views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_product",
+        "kind": 2,
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "peekOfCode": "def view_register_product():\n    name = input(\"Digite o nome do produto: \")\n    flavor = input(\"Digite o sabor do produto: \")\n    return {\"name\": name, \"flavor\": flavor}\ndef response_products(response):\n    print(response)",
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "response_products",
+        "kind": 2,
+        "importPath": "src.views.view_register_products",
+        "description": "src.views.view_register_products",
+        "peekOfCode": "def response_products(response):\n    print(response)",
+        "detail": "src.views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "view_select_state_client",
+        "kind": 2,
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "peekOfCode": "def view_select_state_client():\n    return input(\"Por qual estado deseja fazer a busca? \")\ndef view_clients_by_state(clients):\n    for client in clients:\n        print(f\"* {client['name']}\")",
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_clients_by_state",
+        "kind": 2,
+        "importPath": "src.views.view_select_state_client",
+        "description": "src.views.view_select_state_client",
+        "peekOfCode": "def view_clients_by_state(clients):\n    for client in clients:\n        print(f\"* {client['name']}\")",
+        "detail": "src.views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "clear_terminal",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def clear_terminal(time_to_wait=2):\n    time.sleep(time_to_wait)\n    os.system('clear')",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "list_all_products",
+        "kind": 2,
+        "importPath": "views.view_all_products",
+        "description": "views.view_all_products",
+        "peekOfCode": "def list_all_products(product):\n    print(f\"* {product['name'] + product['flavor']}\")",
+        "detail": "views.view_all_products",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_to_delete",
+        "kind": 2,
+        "importPath": "views.view_deleted_product",
+        "description": "views.view_deleted_product",
+        "peekOfCode": "def view_product_to_delete():\n    return input(\"Digite o Nome do produto que deseja deletar: \")\ndef view_product_deleted(response):\n    print(response)",
+        "detail": "views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "view_product_deleted",
+        "kind": 2,
+        "importPath": "views.view_deleted_product",
+        "description": "views.view_deleted_product",
+        "peekOfCode": "def view_product_deleted(response):\n    print(response)",
+        "detail": "views.view_deleted_product",
+        "documentation": {}
+    },
+    {
+        "label": "show_options",
+        "kind": 2,
+        "importPath": "views.view_options",
+        "description": "views.view_options",
+        "peekOfCode": "def show_options():\n    view = \"\"\"\nBem-Vindo ao Sistema, o que deseja?\n(1) - Cadastrar cliente por nome, telefone e estado\n(2) - Cadastrar produto da loja por nome e sabor (ex: Bolo de Chocolate / Bolo de Morango)\n(3) - Apresentar todos os produtos cadastrados\n(4) - Apresentar todos os clientes de um determinado estado\n(5) - Deletar um produto cadastrado\n\"\"\"\n    option = input(view)",
+        "detail": "views.view_options",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_client",
+        "kind": 2,
+        "importPath": "views.view_register_clients",
+        "description": "views.view_register_clients",
+        "peekOfCode": "def view_register_client():\n    name = input(\"Digite o nome do Cliente: \")\n    phone = input(\"Digite o Telefone: \")\n    state = input(\"Digite o Estado: \")\n    return {\"name\": name, \"phone\": phone, \"state\": state}\ndef client_response(reponse):\n    print(\"Response\")",
+        "detail": "views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "client_response",
+        "kind": 2,
+        "importPath": "views.view_register_clients",
+        "description": "views.view_register_clients",
+        "peekOfCode": "def client_response(reponse):\n    print(\"Response\")",
+        "detail": "views.view_register_clients",
+        "documentation": {}
+    },
+    {
+        "label": "view_register_product",
+        "kind": 2,
+        "importPath": "views.view_register_products",
+        "description": "views.view_register_products",
+        "peekOfCode": "def view_register_product():\n    name = input(\"Digite o nome do produto: \")\n    flavor = input(\"Digite o sabor do produto: \")\n    return {\"name\": name, \"flavor\": flavor}\ndef response_products(response):\n    print(response)",
+        "detail": "views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "response_products",
+        "kind": 2,
+        "importPath": "views.view_register_products",
+        "description": "views.view_register_products",
+        "peekOfCode": "def response_products(response):\n    print(response)",
+        "detail": "views.view_register_products",
+        "documentation": {}
+    },
+    {
+        "label": "view_select_state_client",
+        "kind": 2,
+        "importPath": "views.view_select_state_client",
+        "description": "views.view_select_state_client",
+        "peekOfCode": "def view_select_state_client():\n    return input(\"Por qual estado deseja fazer a busca? \")\ndef view_clients_by_state(clients):\n    for client in clients:\n        print(f\"* {client['name']}\")",
+        "detail": "views.view_select_state_client",
+        "documentation": {}
+    },
+    {
+        "label": "view_clients_by_state",
+        "kind": 2,
+        "importPath": "views.view_select_state_client",
+        "description": "views.view_select_state_client",
+        "peekOfCode": "def view_clients_by_state(clients):\n    for client in clients:\n        print(f\"* {client['name']}\")",
+        "detail": "views.view_select_state_client",
+        "documentation": {}
+    }
+]
