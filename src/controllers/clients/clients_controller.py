@@ -9,12 +9,21 @@ class ClientsController:
             clients_repository.register_clients(client)
             return "Cliente Cadastrado com Sucesso!"
 
-        except:
-            return "Impossível Cadastrar Cliente!"
+        except ValueError as err:
+            print(err)
+            # return "Impossível Cadastrar Cliente!"
 
     def filter_client_by_state(self, state):
         clients = clients_repository.get_clients()
-        filtered_clients = filter(
-            lambda client: client["state"].lower() == state, clients
-        )
-        return list(filtered_clients)
+        clients_filtered = []
+
+        if not clients:
+            return 'Nenhum Cliente Cadastrado!'
+        
+        for client in clients:
+            if client['state'] == state:
+                clients_filtered.append(client['name'])
+
+        return clients_filtered 
+
+

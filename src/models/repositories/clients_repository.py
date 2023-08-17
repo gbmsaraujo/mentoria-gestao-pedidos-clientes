@@ -9,4 +9,4 @@ class __ClientsRepository:
         return self.clients
     
 
-clients_repository = __ClientsRepository
+clients_repository = __ClientsRepository()

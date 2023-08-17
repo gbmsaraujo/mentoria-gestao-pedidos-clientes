@@ -1,2 +1,2 @@
-def list_all_products(product):
-    print(f"* {product['name'] + product['flavor']}")
+def show_all_products(product):
+    print(product)
