@@ -11,21 +11,17 @@ class ProductController:
 
     def list_products(self):
         products = products_repository.get_products()
-
         if not products:
-            return "Nenhum produto Cadastrado!"
-
-        for product in products:
-            return f"{product['name']} de {product['flavor']}"
-
+            return "Não há produtos cadastrados"
+        
+        return products
+    
     def remove_product(self, product_name: str):
-        products = products_repository.get_products()
-
-        for product in products:
             try:
-                if product["name"] == product_name.lower():
-                    products_repository.delete_product(product_name)
-                    return f" O produto: {product['name']} foi removido com sucesso!"
-                return "Produto Inexistente!"
-            except:
-                return "Impossível Remover produto"
+                response = products_repository.delete_product(product_name)
+                if not response:
+                    return "Produto inexistente"
+                return response
+                
+            except ValueError as err:
+                print(err)

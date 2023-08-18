@@ -250,7 +250,7 @@
         "kind": 2,
         "importPath": "src.main.constructor.product_delete_constructor",
         "description": "src.main.constructor.product_delete_constructor",
-        "peekOfCode": "def product_delete_constructor():\n    product_controller = ProductController()\n    product_name = view_product_to_delete()\n    response = product_controller.remove_product(product_name)\n    view_product_deleted(response)",
+        "peekOfCode": "def product_delete_constructor():\n    product_controller = ProductController()\n    product_to_delete = view_product_to_delete()\n    response = product_controller.remove_product(product_to_delete)\n    view_product_deleted(response)",
         "detail": "src.main.constructor.product_delete_constructor",
         "documentation": {}
     },
@@ -304,7 +304,7 @@
         "kind": 6,
         "importPath": "src.models.repositories.products_repository",
         "description": "src.models.repositories.products_repository",
-        "peekOfCode": "class __ProductsRepository:\n    def __init__(self):\n        self.products = []\n    def register_product(self, product):\n        self.products.append(product)\n    def delete_product(self, product:str):\n        self.products.remove(product)\n    def get_products(self):\n        return self.products\nproducts_repository = __ProductsRepository()",
+        "peekOfCode": "class __ProductsRepository:\n    def __init__(self):\n        self.products = []\n    def register_product(self, product):\n        self.products.append(product)\n    def delete_product(self, product_to_delete: dict):\n        for product in self.products:\n            if (\n                product[\"name\"] == product_to_delete[\"name\"]\n                and product[\"flavor\"] == product_to_delete[\"flavor\"]",
         "detail": "src.models.repositories.products_repository",
         "documentation": {}
     },
@@ -331,7 +331,7 @@
         "kind": 2,
         "importPath": "src.views.view_all_products",
         "description": "src.views.view_all_products",
-        "peekOfCode": "def show_all_products(product):\n    print(product)",
+        "peekOfCode": "def show_all_products(products):\n    for product in products:\n        print(f\"* Produto: {product['name']}, Sabor: {product['flavor']}\")",
         "detail": "src.views.view_all_products",
         "documentation": {}
     },
@@ -340,7 +340,7 @@
         "kind": 2,
         "importPath": "src.views.view_deleted_product",
         "description": "src.views.view_deleted_product",
-        "peekOfCode": "def view_product_to_delete():\n    return input(\"Digite o Nome do produto que deseja deletar: \")\ndef view_product_deleted(response):\n    print(response)",
+        "peekOfCode": "def view_product_to_delete():\n    name = input(\"Digite o Nome do produto que deseja deletar: \").lower()\n    flavor = input(\"Digite o Sabor do produto que deseja deletar: \").lower()\n    return {\"name\": name, \"flavor\": flavor}\ndef view_product_deleted(response):\n    print(response)",
         "detail": "src.views.view_deleted_product",
         "documentation": {}
     },
